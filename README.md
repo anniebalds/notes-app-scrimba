@@ -1,2 +1,2 @@
 # Notes App 
-## React, react-mde, showdown
+## React, Local Storage, react-mde, showdown
