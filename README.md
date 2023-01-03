@@ -1,1 +1,2 @@
-maybe some issues with webpack/scripts/watch
+# Notes App 
+# React, react-mde, showdown
